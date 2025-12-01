@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/patterns/action-learning.md",
+                "file": "content/glossary/narrative.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "action-learning"
+              "title": "narrative"
             }
           }
         ]
@@ -182,14 +182,18 @@
   },
   "active": "ef28eafa8cd61b5e",
   "lastOpenFiles": [
-    "collaborators/communities-of-place/hub/hubs.md",
+    "content/glossary/Place.md",
+    "content/glossary/Practice.md",
+    "content/collaborators/participants/developers.md",
+    "content/events/summit/Roles, Responsibilities and Domains.md",
+    "OBSIDIAN_SETUP.md",
     "content/patterns/action-learning.md",
+    "collaborators/communities-of-place/hub/hubs.md",
     "collaborators/communities-of-place/hub",
     "collaborators/communities-of-place",
     "collaborators/communities-of-practice/practice-networks.md",
     "collaborators/communities-of-practice",
     "collaborators",
-    "OBSIDIAN_SETUP.md",
     "content/patterns/action-learning journeys.md",
     "add.md",
     "content/collaborators/communities-of-place/hub/hub team.md",
@@ -208,8 +212,6 @@
     "content/processes/evaluation/1. Our Approach/a. Foundations.md",
     "content/processes/evaluation/Philosophy.md",
     "content/processes/evaluation/2. Our Methodology/index.md",
-    "content/processes/enrolment/Hub Enrollment Form Design.md",
-    "content/collaborators/participants/scribes.md",
     "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
@@ -221,8 +223,6 @@
     "evaluation day2.jpg",
     "evaluation day1 1.jpg",
     "evaluation day1.jpg",
-    "content/patterns/sociocratic organising.md",
-    "content/patterns/aspects.md",
     "patterns",
     "index",
     "public/noah.jpg",

@@ -5,4 +5,6 @@ In systems-change work, narratives hold “political currency” because they re
 1. [Future Narratives Lab](https://www.futurenarrativeslab.org/our-approach/)
 2. [Culture Hack Labs](https://www.culturehack.io/curriculum/curriculum/introduction-to-narratives/module-2-understanding-narratives/)
 
-Narratives shape our understanding of reality, influencing our beliefs and actions, often operating at multiple interrelated levels from everyday discourse to core identities and values. Implicit narratives set boundaries on acceptable discourse, making it crucial for social change efforts to analyse and reframe these narratives to dismantle regressive belief systems. By understanding the dynamics of narratives—through mapping, reframing, and strategic messaging—organizations can identify intervention points, counteract opposing influences, and create more just and equitable futures  .
+Narratives shape our understanding of reality, influencing our beliefs and actions, often operating at multiple interrelated levels from everyday discourse to core identities and values. Implicit narratives set boundaries on acceptable discourse, making it crucial for social change efforts to analyse and reframe these narratives to dismantle regressive belief systems. By understanding the dynamics of narratives—through mapping, reframing, and strategic messaging—organizations can identify intervention points, counteract opposing influences, and create more just and equitable futures.
+
+As part of the human race, story-telling is a major part of our community.
