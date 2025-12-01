@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b6ea31c1753f0664",
+        "id": "973b1a6367967d03",
         "type": "tabs",
         "children": [
           {
-            "id": "ef28eafa8cd61b5e",
+            "id": "e5bd5a2dc080747d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "content/glossary/narrative.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "narrative"
             }
           }
         ]
@@ -180,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef28eafa8cd61b5e",
+  "active": "e5bd5a2dc080747d",
   "lastOpenFiles": [
-    "content/glossary/resourcing.md",
     "content/glossary/narrative.md",
+    "content/glossary/resourcing.md",
     "content/glossary/Place.md",
     "content/glossary/Practice.md",
     "content/collaborators/participants/developers.md",
