@@ -69,7 +69,7 @@ New members may reach out through the Hub Team.
 
 ## Hub Team
 
-- See: [[./hub team/|Hub Team]]
+- See: [Hub Team](/collaborators/communities-of-place/directed%20ethiopia%20hub/hub%20team.md)
 
 
 
