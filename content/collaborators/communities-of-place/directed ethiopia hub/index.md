@@ -1,7 +1,6 @@
 ---
 asIndexPage: true
-sidebarTitle: Hubs
-
+sidebarTitle: Hub Description
 ---
 # DirectED Ethiopia Hub
 
@@ -70,7 +69,7 @@ New members may reach out through the Hub Team.
 
 ## Hub Team
 
-- See: [[hub team/index|Hub Team Roles and Responsibilities]]
+- See: [[../index|hub team]]
 
 
 ## Navigation
