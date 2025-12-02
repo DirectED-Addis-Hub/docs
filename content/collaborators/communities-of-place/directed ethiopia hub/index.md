@@ -25,16 +25,16 @@ The DirectED Ethiopia Hub exists to:
 
 The hub currently includes 10 teams:
 
-- [[teams/stable-solutions|Stable Solutions]]
-- [[teams/ethio-origin|Ethio-Origin]]
-- [[teams/team-axiom|Team Axiom]]
-- [[teams/pixel|Pixel]]
-- [[teams/enkublock|EnkuBlock]]
-- [[teams/mhcda|MHCDA]]
-- [[teams/endubis|Endubis]]
-- [[teams/cats-group-10|CATS Group 10]]
-- [[teams/cats-g3|CATS G-3]]
-- [[teams/solution-genesis|Solution Genesis]]
+- [[stable-solutions|Stable Solutions]]
+- [[ethio-origin|Ethio-Origin]]
+- [[team-axiom|Team Axiom]]
+- [[pixel|Pixel]]
+- [[enkublock|EnkuBlock]]
+- [[mhcda|MHCDA]]
+- [[endubis|Endubis]]
+- [[cats-group-10|CATS Group 10]]
+- [[cats-g3|CATS G-3]]
+- [[solution-genesis|Solution Genesis]]
 
 Each team maintains its own documentation, GitHub space, problem statement, and working rhythm.
 
