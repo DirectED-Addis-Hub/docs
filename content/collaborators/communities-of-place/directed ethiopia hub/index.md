@@ -1,6 +1,6 @@
 ---
 asIndexPage: true
-sidebarTitle: Hub Description
+sidebarTitle: DirectED Ethiopia Hub
 ---
 # DirectED Ethiopia Hub
 
