@@ -5,26 +5,27 @@ The Hub Team provides structure, coherence, and support for all teams within the
 
 
 
-## Hub Lead / Hub Communications  
-**Rani Mesele**
+## Rani Mesele  
+**Hub Lead/Hub Communications**
 
 Provides strategic direction, maintains community alignment, and ensures clear communication across the hub. Represents the Ethiopia Hub within the broader DirectEd network and supports coordination across teams.
 
 
-## Hub Facilitator / Hub Documentation  
-**Nahom Behailu**
+## Nahom Behailu  
+**Hub Facilitator / Hub Documentation**
+
 
 Enables team formation, structured collaboration, and problem-solving sessions. Oversees hub documentation, maintains clarity across artifacts, and ensures transparent recording of team work, learning, and decisions.
 
 
-## Hub Coordinator  
-**Kidus Elias**
+## Kidus Elias 
+**Hub Coordinator**
 
-Ensures operational coherence between the Ethiopia Hub and global DirectEd processes. Supports timelines, expectations, cross-hub synchronization, and shared learning across communities of place.
+Ensures operational coherence between the Ethiopia Hub and continental DirectEd processes. Supports timelines, expectations, cross-hub synchronization, and shared learning across communities of place.
 
 
-## Hub Teaching & Mentorship  
-**Ndigirigi John**
+## Ndigirigi John
+**Hub Teaching & Mentorship**
 
 Provides technical and conceptual mentorship across teams. Supports learning pathways, exploration, and builder growth within the Ethiopia Hub.
 
