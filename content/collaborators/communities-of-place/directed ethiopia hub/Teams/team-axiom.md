@@ -21,7 +21,11 @@ Fragmented records increase costs, delay treatment, and introduce serious safety
 - Yeabsera Sisay  
 
 **Team Members:**  
-(Team member details provided in hub records and internal documentation.)
+- Yeabsera Sisay - cardano developer
+- Yabets maregn -frontend devloper
+- Dagim Tadesse - backend developer 
+- Zahir Ahmed - project manager
+- Nathnael Tegegne - Research & Data Specialist
 
 **GitHub**  
 - Not provided in the form  
