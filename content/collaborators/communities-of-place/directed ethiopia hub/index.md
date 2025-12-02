@@ -71,6 +71,6 @@ New members may reach out through the Hub Team.
 - See: [Hub Team](/content/collaborators/communities-of-place/directed%20ethiopia%20hub/hub%20team.md)
 
 ## Navigation
-- Back to [Communities of Place](/content/collaborators/communities-of-place/index.md)
+- Back to [Communities of Place](/content/collaborators/communities-of-place)
 - Back to [Collaborators](/content/collaborators/index.md)
 
