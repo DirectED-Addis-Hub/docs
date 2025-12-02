@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "973b1a6367967d03",
+        "id": "1b708894a6e5aa3c",
         "type": "tabs",
         "children": [
           {
-            "id": "e5bd5a2dc080747d",
+            "id": "32aef06fc52420ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/glossary/narrative.md",
+                "file": "content/collaborators/communities-of-place/directed ethiopia hub/Teams/team-axiom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "narrative"
+              "title": "team-axiom"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,42 +180,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5bd5a2dc080747d",
+  "active": "32aef06fc52420ad",
   "lastOpenFiles": [
+    "content/collaborators/communities-of-place/directed ethiopia hub/Teams/pixel.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/Teams/solution-genesis.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/Teams/mhcda.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/Teams/ethio-origin.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/Teams/enkublock.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/Teams/endubis.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/Teams/cats-group-10.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/Teams/cats-g3.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/Teams/team-axiom.md",
+    "Untitled.base",
+    "content/collaborators/communities-of-place/directed ethiopia hub/hub team.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/index.md",
+    "hub team/index.md",
+    "hub team",
+    "content/collaborators/communities-of-place/directed ethiopia hub/Teams/stable-solutions.md",
+    "Untitled.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/Teams",
+    "OBSIDIAN_SETUP.md",
+    "content/hubs/directed ethiopia/index.md.md",
+    "content/Hubs/DirectED Ethiopia/Ind.md",
+    "content/hubs/directed ethiopia/Teams",
+    "Untitled",
+    "content/hubs/directed ethiopia",
+    "content/hubs",
+    "content/events/accra/CarPool.md",
+    "content/events/accra/bin-to-cash.md",
+    "content/events/accra/bars-on-bars.md",
     "content/glossary/narrative.md",
     "content/glossary/resourcing.md",
     "content/glossary/Place.md",
     "content/glossary/Practice.md",
     "content/collaborators/participants/developers.md",
-    "content/events/summit/Roles, Responsibilities and Domains.md",
-    "OBSIDIAN_SETUP.md",
-    "content/patterns/action-learning.md",
-    "collaborators/communities-of-place/hub/hubs.md",
     "collaborators/communities-of-place/hub",
     "collaborators/communities-of-place",
-    "collaborators/communities-of-practice/practice-networks.md",
     "collaborators/communities-of-practice",
-    "collaborators",
-    "content/patterns/action-learning journeys.md",
-    "add.md",
-    "content/collaborators/communities-of-place/hub/hub team.md",
-    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/c. Capital Distribution.md",
-    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/b. Evaluation.md",
-    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/a. Overview.md",
-    "content/processes/evaluation/3. Resources & Evidence/b. Templates & Guides.md",
-    "content/processes/evaluation/3. Resources & Evidence/a. Tooling.md",
-    "content/processes/evaluation/3. Resources & Evidence/index.md",
-    "content/processes/evaluation/2. Our Methodology/c. Enabling Stewardship.md",
-    "content/processes/evaluation/2. Our Methodology/b. Tracking Catalysts.md",
-    "content/processes/evaluation/2. Our Methodology/a. Identifying Value.md",
-    "content/processes/evaluation/1. Our Approach/b. The Three-Phase Framework.md",
-    "content/processes/evaluation/index.md",
-    "content/processes/evaluation/1. Our Approach/index.md",
-    "content/processes/evaluation/1. Our Approach/a. Foundations.md",
-    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
-    "video_2025-06-30_20-19-20.mp4",
     "evaluation day2 1.jpg",
     "evaluation day4 1.jpg",
     "evaluation day4.jpg",
@@ -223,10 +226,6 @@
     "evaluation day2.jpg",
     "evaluation day1 1.jpg",
     "evaluation day1.jpg",
-    "patterns",
-    "index",
-    "public/noah.jpg",
-    "content/collaborators/index.mdx",
-    "content/collaborators/Facilitators/index.mdx"
+    "public/noah.jpg"
   ]
 }
