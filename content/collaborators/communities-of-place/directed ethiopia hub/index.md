@@ -69,7 +69,8 @@ New members may reach out through the Hub Team.
 
 ## Hub Team
 
-- See: [[../index|hub team]]
+- See: [[./hub team/|Hub Team]]
+
 
 
 ## Navigation
