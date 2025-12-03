@@ -18,11 +18,14 @@ Weak visibility across the medicine supply chain can lead to stock-outs, expired
 ## Team
 
 **Team Lead:**  
-- Bethlehem Hailu — Team lead, all-rounder  
+- Bethlehem Hailu — Team lead
 
 **Team Members:**  
 - Kaleab Arega — Backend developer  
-- Additional backend and research/UI members as listed in hub records  
+- Mahtot Nigus - UI/Ux Designer
+- Mahlet Yohannes - Backend Develper, Researcher
+- Meiraf Tibebu - Backed Developer
+- Betelhem Worku - Research team, UI/UX Designer
 
 **GitHub**  
 - Not provided in the form  

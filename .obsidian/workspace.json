@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/directed ethiopia hub/teams/cats-group-10.md",
+                "file": "content/collaborators/communities-of-place/directed ethiopia hub/teams/enkublock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cats-group-10"
+              "title": "enkublock"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1c2ef3f15fba4eb0",
@@ -183,6 +182,8 @@
   },
   "active": "ef3d562254549442",
   "lastOpenFiles": [
+    "content/collaborators/communities-of-place/directed ethiopia hub/teams/endubis.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/teams/cats-group-10.md",
     "content/collaborators/communities-of-place/directed ethiopia hub/teams/cats-g3.md",
     "content/collaborators/communities-of-place/directed ethiopia hub/index.md",
     "content/processes/enactment/index.md",
@@ -207,8 +208,6 @@
     "content/collaborators/communities-of-place/directed ethiopia hub/teams/mhcda.md",
     "content/collaborators/communities-of-place/directed ethiopia hub/teams/ethio-origin.md",
     "content/collaborators/communities-of-place/directed ethiopia hub/teams/enkublock.md",
-    "content/collaborators/communities-of-place/directed ethiopia hub/teams/endubis.md",
-    "content/collaborators/communities-of-place/directed ethiopia hub/teams/cats-group-10.md",
     "content/collaborators/participants/scribes.md",
     "content/collaborators/participants/developers.md",
     "content/collaborators/Facilitators/process-infrastructuring.md",
