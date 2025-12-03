@@ -22,7 +22,9 @@ When aid is delayed, misallocated, or poorly tracked, the most vulnerable suffer
 
 **Team Members:**  
 - Tsehaynesh Biruh — Frontend & blockchain developer  
-- Dibora Shib
+- Dibora Shibeshi - UI/UX & Fullstack Developer
+- Soriti - Backend Developer
+- Maricus - Cybersecurity specialist 
  
 
 **GitHub**  
