@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/directed-ethiopia-hub/index.md",
+                "file": "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/stable-solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "stable-solutions"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "ef3d562254549442",
   "lastOpenFiles": [
-    "content/collaborators/communities-of-place/directed-ethiopia-hub/hub-team.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/index.md",
+    "content/collaborators/communities-of-place/directed-ethiopia-hub/hub-team.md",
     "content/collaborators/communities-of-place/Untitled.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/team-axiom.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/stable-solutions.md",
