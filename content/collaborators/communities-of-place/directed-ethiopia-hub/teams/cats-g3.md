@@ -36,4 +36,4 @@ Fragmented loyalty systems limit collaboration between businesses and reduce the
 - Maybe  
 
 ## Links
-- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub/index.md)
+- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub)
