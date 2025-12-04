@@ -34,4 +34,4 @@ When records are unclear or disputes arise, trust can collapse and savings can b
 - Maybe  
 
 ## Links
-- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub/index.md)
+- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub)
