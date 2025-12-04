@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/team-axiom.md",
+                "file": "content/collaborators/communities-of-place/directed-ethiopia-hub/hub-team.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "team-axiom"
+              "title": "hub-team"
             }
           }
         ]
@@ -182,15 +182,20 @@
   },
   "active": "ef3d562254549442",
   "lastOpenFiles": [
+    "collaborators/communities-of-place/directed-ethiopia-hub.md",
+    "content/collaborators/communities-of-place/directed-ethiopia-hub/hub-team.md",
+    "collaborators/communities-of-place",
+    "collaborators",
+    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/enkublock.md",
+    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/endubis.md",
+    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/cats-group-10.md",
+    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/cats-g3.md",
+    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/team-axiom.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/stable-solutions.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/solution-genesis.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/pixel.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/mhcda.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/ethio-origin.md",
-    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/enkublock.md",
-    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/endubis.md",
-    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/cats-group-10.md",
-    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/cats-g3.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/index.md",
     "content/patterns/action-learning.md",
     "content/processes/process-infrastructuring/propagate/coordinator.md",
@@ -199,20 +204,15 @@
     "content/Practices/Awareness-Based Systems Change.md",
     "content/Practices/Appreciative Inquiry.md",
     "content/processes/index.md",
-    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/team-axiom.md",
-    "content/collaborators/communities-of-place/directed-ethiopia-hub/hub-team.md",
     "content/collaborators/communities-of-place/Untitled.md",
     "content/processes/enactment/index.md",
     "practices.md",
     "collaborators/communities-of-practice/regenesis-wada.md",
     "collaborators/communities-of-practice",
-    "collaborators",
     "content/processes/enactment/4. iterate, iteration, iterating.md",
     "content/collaborators/index.md",
-    "content/context-narrative/Bioregional Celebration Festival.md",
     "Untitled.base",
     "collaborators/communities-of-place/directed ethiopia hub",
-    "collaborators/communities-of-place",
     "content/collaborators/directed ethiopia hub",
     "content/collaborators/directed-ethiopia-hub",
     "glossary",

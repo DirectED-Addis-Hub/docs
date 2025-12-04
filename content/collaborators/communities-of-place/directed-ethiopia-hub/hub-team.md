@@ -30,6 +30,6 @@ Ensures operational coherence between the Ethiopia Hub and continental DirectEd 
 Provides technical and conceptual mentorship across teams. Supports learning pathways, exploration, and builder growth within the Ethiopia Hub.
 
 
-%% ## Navigation  
-- Back to [[../index|DirectED Ethiopia Hub]]
-- Back to [[../../index|Communities of Place]] %%
+ ## Navigation  
+- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub)
+- Back to [Communities of Place](/collaborators/communities-of-place)
