@@ -36,4 +36,4 @@ Lack of clear, fair, and auditable mechanisms erodes trust and limits participat
 - Maybe  
 
 ## Links
-- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub/index.md)
+- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub)
