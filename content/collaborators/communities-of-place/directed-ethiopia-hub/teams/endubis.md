@@ -3,7 +3,7 @@
 ## Problem Title
 Lack of Accountability and Trust in African Governance and Digital Commerce
 
-## Overview[[cats-group-10]]
+## Overview
 Endubis is exploring how to build more accountable, transparent systems for governance and digital commerce. Today, many citizens and online workers feel they have limited recourse when disputes arise, whether in public services or digital marketplaces.
 
 ## Who Experiences This Problem
