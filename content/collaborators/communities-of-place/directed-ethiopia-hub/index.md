@@ -25,7 +25,7 @@ The DirectED Ethiopia Hub exists to:
 
 The hub currently includes 10 teams:
 
-- [Stable Solutions](/collaborators/communities-of-place/directed-ethiopia-hub/teams/stable-solutions.md)
+- [Stable Solutions](contents/collaborators/communities-of-place/directed-ethiopia-hub/teams/stable-solutions.md)
 - [Ethio-Origin](/collaborators/communities-of-place/directed-ethiopia-hub/teams/ethio-origin.md)
 - [Team Axiom](/collaborators/communities-of-place/directed-ethiopia-hub/teams/team-axiom.md)
 - [Pixel](/collaborators/communities-of-place/directed-ethiopia-hub/teams/pixel.md)
@@ -37,7 +37,6 @@ The hub currently includes 10 teams:
 - [Solution Genesis](/collaborators/communities-of-place/directed-ethiopia-hub/teams/solution-genesis.md)
 
 Each team maintains its own documentation, GitHub space, problem statement, and working rhythm.
-
 
 ## Operating Model
 
