@@ -37,4 +37,4 @@ Without transparent traceability, high-value Ethiopian products can be undervalu
 - No  
 
 ## Links
-- Back to [[../index|DirectED Ethiopia Hub]]
+- Back to [[content/collaborators/communities-of-place/directed-ethiopia-hub/index|DirectED Ethiopia Hub]]
