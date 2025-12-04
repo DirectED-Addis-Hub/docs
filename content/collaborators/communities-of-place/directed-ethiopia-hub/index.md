@@ -25,16 +25,16 @@ The DirectED Ethiopia Hub exists to:
 
 The hub currently includes 10 teams:
 
-- [Stable Solutions](stable-solutions.md)
-- [Ethio-Origin](ethio-origin.md)
-- [Team Axiom](team-axiom.md)
-- [Pixel](pixel.md)
-- [EnkuBlock](enkublock.md)
-- [MHCDA](mhcda.md)
-- [Endubis](endubis.md)
-- [CATS Group 10](cats-group-10.md)
-- [CATS G-3](cats-g3.md)
-- [Solution Genesis](solution-genesis.md)
+- [Stable Solutions](/collaborators/communities-of-place/directed-ethiopia-hub/teams/stable-solutions.md)
+- [Ethio-Origin](/collaborators/communities-of-place/directed-ethiopia-hub/teams/ethio-origin.md)
+- [Team Axiom](/collaborators/communities-of-place/directed-ethiopia-hub/teams/team-axiom.md)
+- [Pixel](/collaborators/communities-of-place/directed-ethiopia-hub/teams/pixel.md)
+- [EnkuBlock](/collaborators/communities-of-place/directed-ethiopia-hub/teams/enkublock.md)
+- [MHCDA](/collaborators/communities-of-place/directed-ethiopia-hub/teams/mhcda.md)
+- [Endubis](/collaborators/communities-of-place/directed-ethiopia-hub/teams/endubis.md)
+- [CATS Group 10](/collaborators/communities-of-place/directed-ethiopia-hub/teams/cats-group-10.md)
+- [CATS G-3](/collaborators/communities-of-place/directed-ethiopia-hub/teams/cats-g3.md)
+- [Solution Genesis](/collaborators/communities-of-place/directed-ethiopia-hub/teams/solution-genesis.md)
 
 Each team maintains its own documentation, GitHub space, problem statement, and working rhythm.
 
