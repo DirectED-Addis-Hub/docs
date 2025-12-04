@@ -37,4 +37,4 @@ When aid is delayed, misallocated, or poorly tracked, the most vulnerable suffer
 - Yes  
 
 ## Links
-- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub/index.md)
+- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub)
