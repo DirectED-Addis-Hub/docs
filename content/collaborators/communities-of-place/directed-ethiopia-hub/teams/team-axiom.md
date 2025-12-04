@@ -41,4 +41,4 @@ Fragmented records increase costs, delay treatment, and introduce serious safety
 - No  
 
 ## Links
-- Back to [[content/collaborators/communities-of-place/directed-ethiopia-hub/index|DirectED Ethiopia Hub]]
+- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub/index.md)
