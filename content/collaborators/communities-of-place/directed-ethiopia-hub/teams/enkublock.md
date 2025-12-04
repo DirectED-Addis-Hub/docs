@@ -37,4 +37,4 @@ Weak visibility across the medicine supply chain can lead to stock-outs, expired
 - No  
 
 ## Links
-- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub/index.md)
+- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub)
