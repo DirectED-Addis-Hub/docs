@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/directed ethiopia hub/teams/stable-solutions.md",
+                "file": "content/collaborators/communities-of-place/directed ethiopia hub/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stable-solutions"
+              "title": "index"
             }
           }
         ]
@@ -180,17 +180,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef3d562254549442",
+  "active": "bce36f6df86b5df2",
   "lastOpenFiles": [
-    "content/collaborators/communities-of-place/directed ethiopia hub/teams/solution-genesis.md",
-    "content/collaborators/communities-of-place/directed ethiopia hub/teams/pixel.md",
-    "content/collaborators/communities-of-place/directed ethiopia hub/teams/mhcda.md",
+    "content/collaborators/communities-of-place/Untitled.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/index.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/hub team.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/teams/team-axiom.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/teams/stable-solutions.md",
     "content/collaborators/communities-of-place/directed ethiopia hub/teams/ethio-origin.md",
     "content/collaborators/communities-of-place/directed ethiopia hub/teams/enkublock.md",
     "content/collaborators/communities-of-place/directed ethiopia hub/teams/endubis.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/teams/solution-genesis.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/teams/pixel.md",
+    "content/collaborators/communities-of-place/directed ethiopia hub/teams/mhcda.md",
     "content/collaborators/communities-of-place/directed ethiopia hub/teams/cats-group-10.md",
     "content/collaborators/communities-of-place/directed ethiopia hub/teams/cats-g3.md",
-    "content/collaborators/communities-of-place/directed ethiopia hub/index.md",
     "content/processes/enactment/index.md",
     "practices.md",
     "collaborators/communities-of-practice/regenesis-wada.md",
@@ -198,7 +202,6 @@
     "collaborators",
     "content/processes/enactment/4. iterate, iteration, iterating.md",
     "content/collaborators/index.md",
-    "content/collaborators/communities-of-place/directed ethiopia hub/hub team.md",
     "content/context-narrative/Bioregional Celebration Festival.md",
     "content/events/resilience.md",
     "content/events/summit/Roles, Responsibilities and Domains.md",
@@ -207,10 +210,7 @@
     "content/patterns/case-study.md",
     "content/patterns/action-learning.md",
     "content/collaborators/communities-of-place/directed ethiopia hub/teams/index.md",
-    "content/collaborators/communities-of-place/directed ethiopia hub/teams/team-axiom.md",
-    "content/collaborators/communities-of-place/directed ethiopia hub/teams/stable-solutions.md",
     "content/collaborators/participants/scribes.md",
-    "content/collaborators/participants/developers.md",
     "collaborators/communities-of-place/directed ethiopia hub",
     "collaborators/communities-of-place",
     "content/collaborators/directed ethiopia hub",
