@@ -34,4 +34,4 @@ Prescription fraud directly harms patients, wastes scarce resources, and undermi
 - No  
 
 ## Links
-- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub/index.md)
+- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub)
