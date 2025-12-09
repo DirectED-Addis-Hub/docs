@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/events/Virtual Events/CarPool.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CarPool"
+              "title": "index"
             }
           }
         ]
@@ -180,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bce36f6df86b5df2",
+  "active": "ef3d562254549442",
   "lastOpenFiles": [
+    "content/events/Virtual Events/CarPool.md",
+    "content/index.md",
     "content/events/Virtual Events/bars-on-bars.md",
     "content/events/Virtual Events/bin-to-cash.md",
-    "content/events/Virtual Events/CarPool.md",
     "content/events/index.md",
     "content/events/resilience.md",
     "practices.md",
@@ -215,7 +216,6 @@
     "content/processes/process-infrastructuring/propagate/coordinator.md",
     "content/Practices/Deep Time Journeys.md",
     "content/Practices/Decoloniality.md",
-    "content/Practices/Awareness-Based Systems Change.md",
     "collaborators/communities-of-practice",
     "collaborators/communities-of-place/directed ethiopia hub",
     "content/collaborators/directed ethiopia hub",
