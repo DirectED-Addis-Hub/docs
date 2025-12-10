@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/collaborators/communities-of-place/directed-ethiopia-hub/hubs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "hubs"
             }
           }
         ]
@@ -182,9 +182,9 @@
   },
   "active": "ef3d562254549442",
   "lastOpenFiles": [
+    "content/index.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/hubs.md",
     "content/events/Virtual Events/CarPool.md",
-    "content/index.md",
     "content/events/Virtual Events/bars-on-bars.md",
     "content/events/Virtual Events/bin-to-cash.md",
     "content/events/index.md",
