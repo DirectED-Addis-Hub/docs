@@ -92,10 +92,7 @@ const footer = <Footer>Prisma © {new Date().getFullYear()}</Footer>
 export default async function RootLayout({
   children,
   params,
-}: {
-  children: ReactNode;
-  params: { mdxPath?: string[] };
-}) {
+}: any){
   const metadata = await generateMetadata({ params }); // Generate dynamic metadata
 
   return (
