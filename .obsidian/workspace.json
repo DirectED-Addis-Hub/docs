@@ -25,12 +25,14 @@
             "id": "20522bd320254c40",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "public/app-enacting.svg"
+                "file": "content/collaborators/communities-of-place/directed-ethiopia-hub/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "app-enacting"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -195,23 +197,24 @@
   },
   "active": "20522bd320254c40",
   "lastOpenFiles": [
+    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/enkublock.md",
+    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/endubis.md",
+    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/cats-g3.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "public/app-enacting.svg",
     "public/app-docs.svg",
     "public/action-learning.png",
     "public/abdul.jpg",
     "patterns/action-learning journeys.md",
-    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/cats-g3.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/hubs.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/hub-team.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/team-axiom.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/solution-genesis.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/pixel.md",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/mhcda.md",
-    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/enkublock.md",
-    "content/collaborators/communities-of-place/directed-ethiopia-hub/teams/endubis.md",
     "Untitled 2.base",
     "Untitled.md",
-    "Untitled 1.base",
-    "Untitled.base",
     "content/collaborators/communities-of-place/directed-ethiopia-hub/index.md",
     "content/events/index.md",
     "content/events/resilience.md",
@@ -239,8 +242,6 @@
     "evaluation day2 1.jpg",
     "evaluation day4 1.jpg",
     "evaluation day4.jpg",
-    "evaluation day3.jpg",
-    "evaluation day2.jpg",
-    "evaluation day1 1.jpg"
+    "evaluation day3.jpg"
   ]
 }
