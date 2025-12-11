@@ -46,10 +46,10 @@ const navbar = (
   <Navbar
     logo={
       <div>
-        <Image src="/directed_logo.png" width={140} height={60} alt="DirectED logo" />
+        <Image src="/directed_text_w_favcon.webp" width={140} height={60} alt="DirectED logo" />
       </div>
     }
-    logoLink={"https://www.prisma.events/"}
+    logoLink={"https://www.directed.dev/"}
     chatIcon={<FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />}
     chatLink={"https://t.me/+9-UF8k9H8dBjNWFk"}
     children={
