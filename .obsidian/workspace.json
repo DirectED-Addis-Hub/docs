@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/directed-ethiopia-hub/index.md",
+                "file": "content/directed-ethiopia-hub/hub-team.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "hub-team"
             }
           }
         ],
@@ -197,6 +197,7 @@
   },
   "active": "20522bd320254c40",
   "lastOpenFiles": [
+    "content/directed-ethiopia-hub/index.md",
     "content/events/summit/Roles, Responsibilities and Domains.md",
     "node_modules/@vercel",
     "node_modules/@types",
@@ -206,7 +207,6 @@
     "node_modules/@mdx-js",
     "node_modules",
     "_tmp_22760_b2827574af0eb43a1463cbc08938d469",
-    "content/directed-ethiopia-hub/index.md",
     "content/directed-ethiopia-hub/teams/enkublock.md",
     "content/directed-ethiopia-hub/teams/endubis.md",
     "content/directed-ethiopia-hub/teams/cats-g3.md",
