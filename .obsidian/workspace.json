@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/events/summit/Roles, Responsibilities and Domains.md",
+                "file": "content/directed-ethiopia-hub/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roles, Responsibilities and Domains"
+              "title": "index"
             }
           }
         ],
@@ -197,6 +197,7 @@
   },
   "active": "20522bd320254c40",
   "lastOpenFiles": [
+    "content/events/summit/Roles, Responsibilities and Domains.md",
     "node_modules/@vercel",
     "node_modules/@types",
     "node_modules/@tailwindcss",
@@ -222,12 +223,10 @@
     "content/directed-ethiopia-hub/teams/solution-genesis.md",
     "content/directed-ethiopia-hub/teams/pixel.md",
     "content/directed-ethiopia-hub/teams/mhcda.md",
-    "Untitled 2.base",
     "Untitled.md",
     "content/events/index.md",
     "content/events/resilience.md",
     "content/index.md",
-    "content/events/summit/Roles, Responsibilities and Domains.md",
     "content/events/Virtual Events/CarPool.md",
     "content/events/Virtual Events/bin-to-cash.md",
     "content/events/Virtual Events/bars-on-bars.md",
