@@ -3,102 +3,72 @@ asIndexPage: true
 sidebarTitle: Events
 ---
 
-# Software License and Deployment Agreement
+# Events
 
-Effective upon digital acceptance (“Deploy” action)
-Between Prisma (“Licensor”) and each verified deployment participant or organization (“Licensee”).
+The Addis Ababa Hub events provide the shared rhythm that keeps teams aligned, accountable, and moving forward throughout the hackathon.
 
-# Recitals and Context
+Events are designed to support teams at different stages of their journey — from early exploration and problem framing, through technical building and integration, to final demos and submission readiness.
 
-Whereas, Prisma supports a network of partner hubs in developing an economy of applications that enable participation in and communication of evolving local systems;
+This page gives an overview of how events are structured and how teams are expected to participate.
 
-Whereas, these hubs operate autonomously within their own contexts, values, and partnerships, and Prisma’s goal is to provide a “narrative infrastructure”—a publishing framework empowering hubs to express themselves freely and coordinate resources without compromising integrity;
+---
 
-Whereas, as part of these capabilities, Prisma provides a Publishing Stack—a modular suite of applications supporting participatory processes, deployed to partner hubs’ own cloud instances in alignment with the principles of decentralisation and digital sovereignty;
+## Event Structure
 
-Whereas, to enable this open, collaborative, and transparent model while preserving the security and integrity of Prisma’s systems and intellectual property, the following license governs access and deployment of the software;
+Hub events are organised around two complementary formats:
 
-Now, therefore, the parties agree as follows:
+- **Virtual sessions** for continuity, coordination, and learning  
+- **In-person sessions** for deeper collaboration, workshops, and milestone moments  
 
-## 1. Purpose and Grant
+Together, they create a steady cadence that balances flexibility with accountability.
 
-Licensor provides access to the Prisma Publishing Stack (and related modules, tools, and infrastructure) for the purpose of enabling participation, publication, and coordination within the specific event, initiative, or workflow context defined in the deployment metadata recorded at the time of acceptance.
+---
 
-Licensor grants Licensee a limited, non-exclusive, non-transferable, non-sublicensable license to deploy and operate the software solely within this dynamically defined context.
-All other uses are prohibited.
+## Virtual Events
 
-## 2. Deployment Conditions
+Virtual events form the backbone of the hub’s weekly rhythm.
 
-1. At the time of each deployment, the system collects immutable metadata including (without limitation):
+These sessions typically include:
 
-* Wallet address and verified identity of Licensee;
-* Event or project name, date range, and identifiers;
-* Domain/subdomain configuration;
-* Software modules and repositories deployed;
-* Platform identifiers (e.g., GitHub, Vercel, or equivalent);
-* Timestamp and deployment status.
+- Team check-ins and progress updates  
+- Review of blockers and technical challenges  
+- Guidance on methodology, documentation, and expectations  
+- Mentorship touchpoints and Q&A  
 
-2. Such metadata shall be automatically incorporated by reference into this Agreement as Schedule A for that specific deployment, and forms part of the legally binding contract between Licensor and Licensee.
-3. Each deployment record constitutes a distinct contract instance, binding solely for the defined workflow, project, or event.
-4. Any reuse, modification, or redeployment outside the recorded context requires a new acceptance and corresponding metadata capture.
+Virtual sessions ensure that all teams remain aligned with timelines, submission requirements, and learning goals, even when working asynchronously.
 
-## 3. Intellectual Property
+---
 
-All rights, title, and interest in and to the Prisma Publishing Stack—including source code, documentation, algorithms, and design—remain the exclusive property of Licensor.
-Licensee receives no ownership, title, or derivative rights.
-Licensee may not reverse-engineer, copy, adapt, or redistribute the software, or make it publicly available under open-source or similar licenses without prior written approval.
+## In-Person Events
 
-## 4. Data, Security, and Transparency
+In-person events are milestone moments within the hub.
 
-1. Licensee acknowledges that Licensor may record deployment metadata (including wallet address, timestamp, event name, and T&Cs hash) and may anchor authorship or deployment records to a public blockchain for verification purposes.
-2. Licensee shall comply with all applicable data protection laws and implement reasonable safeguards to prevent unauthorized disclosure or alteration of the software or related data.
-3. Licensor may store deployment metadata, including this Agreement’s cryptographic hash, within an immutable database, ledger, or blockchain-based registry. This record shall constitute the definitive version of the Agreement for evidentiary purposes.
+They are used for:
 
-## 5. Attribution
+- Workshops and guided learning sessions  
+- Collaborative problem-framing and design activities  
+- Technical deep dives and integration support  
+- Demos, reviews, and final presentations  
 
-A non-prominent “Powered by Prisma” notice or digital attribution may appear within the deployed system and related metadata. Licensee may not remove or obscure it.
+These sessions create space for deeper focus, peer learning, and shared momentum across the Addis Ababa Hub.
 
-## 6. Termination and Revocation
+---
 
-Licensor may revoke or suspend Licensee’s deployment rights immediately if Licensee:
+## Participation Expectations
 
-* Misuses the software, breaches these terms, or fails to maintain security controls;
-* Attempts to deploy or modify the software outside authorized channels; or
-* Ceases participation in the associated event.
+All teams are expected to:
 
-Upon termination, Licensee must cease all use of the software and delete all copies.
+- Attend scheduled hub events or notify the hub team in advance  
+- Come prepared with updates, questions, or materials relevant to the session  
+- Document outcomes, decisions, and next steps after each event  
+- Use events as checkpoints for real progress, not passive attendance  
 
-## 7. Limitation of Liability
+Events are not optional add-ons — they are a core part of how teams move from exploration to submission.
 
-Except for willful misconduct or gross negligence, Licensor shall not be liable for indirect, incidental, or consequential damages arising from use or inability to use the software.
+---
 
-## 8. Governing Law and Jurisdiction
+## Calendar & Updates
 
-This Agreement shall be governed by the laws of [insert jurisdiction, e.g., Germany or England & Wales], and any disputes shall be resolved before the competent courts of [insert city].
+The full schedule of upcoming events, including session links and locations, is maintained through the hub calendar.
 
-## 9. Digital Acceptance
-
-By selecting “Deploy,” connecting a verified Cardano wallet, and signing the deployment nonce, the Licensee:
-
-* Confirms identity and authority to act for the corresponding organization;
-* Agrees that such digital signature constitutes a legally binding acceptance under applicable electronic-signature laws; and
-* Accepts all terms of this Agreement as of the deployment timestamp.
-
-### Schedule A — Deployment Metadata (automatically generated)
-
-| Field                 | Value           |
-| --------------------- | --------------- |
-| Workflow ID           | [auto-recorded] |
-| Wallet Address        | [auto-recorded] |
-| Client Name           | [auto-recorded] |
-| Event Name            | [auto-recorded] |
-| Event Start           | [auto-recorded] |
-| Event End             | [auto-recorded] |
-| GitHub Target Org     | [auto-recorded] |
-| Vercel Team ID        | [auto-recorded] |
-| Event End             | [auto-recorded] |
-| Deployed Apps         | [auto-recorded] |
-| Signature / Nonce     | [auto-recorded] |
-| Timestamp (UTC)       | [auto-recorded] |
-| Event / Deployment ID | [auto-recorded] |
-| T&Cs Hash (SHA256)    | [auto-recorded] |
+Teams should regularly check the calendar and hub announcements to stay informed about upcoming sessions and any changes to timing or format.
