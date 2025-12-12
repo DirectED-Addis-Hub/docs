@@ -1,5 +1,4 @@
 ---
-asIndexPage: true
 sidebarTitle: Events
 ---
 
@@ -69,7 +68,6 @@ Events are not optional add-ons — they are a core part of how teams move from 
 
 ## Calendar & Updates
 
-{/*
 <iframe
   src="https://calendar.google.com/calendar/embed?src=9427272237d047429576e14ae2bed591a02ce793a4c80403a2fccc626466e29c%40group.calendar.google.com&ctz=Africa%2FAddis_Ababa"
   width="100%"
@@ -78,7 +76,7 @@ Events are not optional add-ons — they are a core part of how teams move from 
   style={{ border: "1px solid #bfcbda88", borderRadius: "8px" }}
   scrolling="no"
 />
-*/}
+
 
 The full schedule of upcoming events, including session links and locations, is maintained through the hub calendar.
 
