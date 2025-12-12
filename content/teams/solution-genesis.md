@@ -36,5 +36,3 @@ Payment friction blocks access to global work opportunities and stable income. A
 **Open to New Members?**  
 - Yes  
 
-## Links
-- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub)

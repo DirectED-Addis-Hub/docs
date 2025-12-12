@@ -40,5 +40,4 @@ Without visibility and fair access to buyers, artisans are underpaid and their c
 **Open to New Members?**  
 - Yes  
 
-## Links
-- Back to [DirectED Ethiopia Hub](/collaborators/communities-of-place/directed-ethiopia-hub)
+
