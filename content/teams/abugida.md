@@ -1,4 +1,4 @@
-# CATS G-3
+# Abugida
 
 ## Problem Title
 LoyalCoin: Unified Multi-Merchant Loyalty Currency on Cardano
