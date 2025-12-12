@@ -1,5 +1,5 @@
 ---
-sidebarTitle: Events
+sidebarTitle: # Events
 ---
 
 # Events
