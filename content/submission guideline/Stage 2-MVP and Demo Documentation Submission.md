@@ -35,7 +35,7 @@ Submit a **public link** to your repo containing your codebase. This allows eval
 
 These four components together represent your team's current state of progress.
 
-## **📅 Deadline and form (Non-Negotiable)**
+## 📅 Deadline and form (Non-Negotiable)
 
 <aside> ⚠️
 
@@ -51,27 +51,27 @@ Hub Leads must have enough time to prepare their documentation pages. Because of
 
 </aside>
 
-## **📋 How to Submit Correctly**
+## 📋 How to Submit Correctly
 
 To ensure your documentation is processed smoothly, follow these steps:
 
-### **Submit only once per team**
+### Submit only once per team
 
 - Select **one team member** to complete the submission.
 - Prepare all four items **before** opening the form.
 - Check that every link works and is accessible.
 
-### **Avoid duplicate submissions**
+### Avoid duplicate submissions
 
 If your team has already submitted this package, and your name is included, **you do not need to submit again**.
 
-### **After submitting**
+### After submitting
 
 Share the confirmation internally so the whole team knows the submission is complete.
 
 These steps keep your documentation organised and prevent delays for Hub Leads.
 
-## **📌 What Happens Next**
+## 📌 What Happens Next
 
 Once your submission is processed:
 
