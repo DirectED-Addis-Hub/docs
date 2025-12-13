@@ -1,7 +1,7 @@
 ---
 sidebarTitle: Kahoots
 ---
-## 🧭 Overview
+# 🎮 Kahoots
 
 Kahoots are a weekly part of the hackathon experience. Each week, we run a live Kahoot session based entirely on the workshop content covered during that same week. The goal is simple: help you review key ideas, reinforce what you’ve learned, and stay engaged with the program in a fun, low-pressure way.
 
