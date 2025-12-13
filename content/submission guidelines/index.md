@@ -1,5 +1,5 @@
 ---
-sidebarTitle: Submission Stages Overview
+sidebarTitle: Submission Guidelines
 asIndexPage: true
 ---
 
@@ -23,7 +23,7 @@ Stage 1 is about grounding your project in **real lived reality**. Before buildi
 - Submission instructions and deadline
 
 👉 **Start here:**  
-➡️ **[Stage 1 Submission Guidelines](./stage-1.md)**
+➡️ **[Stage 1 Submission Guidelines](/stage-1.md)**
 
 ---
 
