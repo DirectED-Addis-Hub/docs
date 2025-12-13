@@ -33,6 +33,6 @@ Payment friction blocks access to global work opportunities and stable income. A
 **Additional Roles Needed**  
 - UI/UX designer and Rust developer  
 
-**Open to New Members?**  
-- Yes  
+**Open to New Members?**    
+- Maybe
 
