@@ -23,7 +23,7 @@ Stage 1 is about grounding your project in **real lived reality**. Before buildi
 - Submission instructions and deadline
 
 👉 **Start here:**  
-➡️ **[Stage 1 Submission Guidelines](/stage-1.md)**
+➡️ **[Stage 1 Submission Guidelines](submission-guidelines/stage-1.md)**
 
 ---
 
@@ -39,7 +39,7 @@ Stage 2 documents your team’s **early execution and technical progress**. This
 - What happens after you submit
 
 👉 **Continue to:**  
-➡️ **[Stage 2 Submission Guidelines](./stage-2.md)**
+➡️ **[Stage 2 Submission Guidelines](submission-guidelines/stage-2.md)**
 
 ---
 
@@ -55,7 +55,7 @@ Stage 3 is your team’s **formal registration** into the global programme. This
 - What happens after enrolment
 
 👉 **Final step:**  
-➡️ **[Stage 3 Submission Guidelines](./stage-3.md)**
+➡️ **[Stage 3 Submission Guidelines](submission-guidelines/stage-3.md)**
 
 ---
 
