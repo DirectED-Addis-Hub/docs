@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/events/🎮 Kahoots.md",
+                "file": "content/submission guideline/Stage 1 - Regenerative Exploration, Participant Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎮 Kahoots"
+              "title": "Stage 1 - Regenerative Exploration, Participant Guide"
             }
           }
         ],
@@ -197,8 +197,13 @@
   },
   "active": "20522bd320254c40",
   "lastOpenFiles": [
+    "content/events/kahoots.md",
+    "content/submission guideline/Stage 1 - Regenerative Exploration, Participant Guide.md",
     "content/events/index.md",
     "content/events/🎮 Kahoots.md",
+    "content/submission guideline/index.mdx",
+    "content/submission guideline",
+    "content/_meta.json",
     "content/workshops.mdx",
     "content/teams/stable-solutions/solution-genesis.md",
     "content/teams/solution-genesis/stakeholder-map.md",
@@ -231,11 +236,6 @@
     "content/teams/ethio-origin/community-essence-map.md",
     "content/teams/pixel/stakeholder-map.md",
     "content/teams/pixel/reflection.md",
-    "content/teams/pixel/index.mdx",
-    "content/teams/pixel/community-essence-map.md",
-    "content/teams/africhain-aid/stakeholder-map.md",
-    "content/teams/africhain-aid/index.mdx",
-    "content/teams/solution-genesis",
     "public/app-docs.svg",
     "public/action-learning.png",
     "public/abdul.jpg",
