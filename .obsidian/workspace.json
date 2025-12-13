@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/submission guideline/Stage 1 - Regenerative Exploration, Participant Guide.md",
+                "file": "content/submission guideline/Stage 2-MVP and Demo Documentation Submission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stage 1 - Regenerative Exploration, Participant Guide"
+              "title": "Stage 2-MVP and Demo Documentation Submission"
             }
           }
         ],
@@ -197,8 +197,9 @@
   },
   "active": "20522bd320254c40",
   "lastOpenFiles": [
-    "content/submission guideline/Stage 2-MVP and Demo Documentation Submission.md",
+    "OBSIDIAN_SETUP.md",
     "content/submission guideline/Stage 1 - Regenerative Exploration, Participant Guide.md",
+    "content/submission guideline/Stage 2-MVP and Demo Documentation Submission.md",
     "content/events/kahoots.md",
     "content/events/index.md",
     "content/events/🎮 Kahoots.md",
@@ -235,7 +236,6 @@
     "content/teams/ethio-origin/reflection.md",
     "content/teams/ethio-origin/index.mdx",
     "content/teams/ethio-origin/community-essence-map.md",
-    "content/teams/pixel/stakeholder-map.md",
     "public/app-docs.svg",
     "public/action-learning.png",
     "public/abdul.jpg",
