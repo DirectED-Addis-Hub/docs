@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/processes/evaluation/index.md",
+                "file": "content/submission guideline/Stage 2-MVP and Demo Documentation Submission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Stage 2-MVP and Demo Documentation Submission"
             }
           },
           {
@@ -139,7 +139,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/processes/evaluation/index.md",
+                "file": "content/submission guideline/Stage 2-MVP and Demo Documentation Submission.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Stage 2-MVP and Demo Documentation Submission"
             }
           },
           {
@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -191,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20522bd320254c40",
+  "active": "6c3153139a314030",
   "lastOpenFiles": [
     "content/submission guideline/Stage 1 - Regenerative Exploration, Participant Guide.md",
     "content/hub-team.md",
