@@ -9,7 +9,7 @@ Before designing or coding, your mission is to **understand your place** in the 
 
 Every team must submit **all four outcomes** listed below.
 
-### ✅ **Outcome 1: Community Essence Map**
+ **Outcome 1: Community Essence Map**
 
 A clear representation of what you discovered during exploration.
 
