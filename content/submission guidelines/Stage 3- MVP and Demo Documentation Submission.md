@@ -1,5 +1,5 @@
 ---
-sidebarTitle: Stage 3 - MVP and Demo Documentation Submission
+sidebarTitle: Stage 3 submission guidelines 
 ---
 ## 🧭 Overview
 
