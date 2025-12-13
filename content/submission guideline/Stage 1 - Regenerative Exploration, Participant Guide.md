@@ -5,11 +5,11 @@ sidebarTitle: Stage 1 submission guidelines
 
 Before designing or coding, your mission is to **understand your place** in the real environment, people, systems, and stories from which your solution will emerge. Your project must be rooted in lived reality rather than assumptions. In this stage, you will **explore, listen, observe, and make sense** of what is actually happening in your community. Your outputs from this stage will become the **foundation of your final project**.
 
-## **Required Outcomes (What You Must Produce)**
+## 1. 📋Required Outcomes (What You Must Produce)
 
 Every team must submit **all four outcomes** listed below.
 
- **Outcome 1: Community Essence Map**
+### 1.1 Outcome 1: Community Essence Map
 
 A clear representation of what you discovered during exploration.
 
@@ -26,7 +26,7 @@ Must include:
 - A diagram or timeline + short explanation
 - PDF, doc, or image
 
-### ✅ **Outcome 2: Stakeholder Map**
+### 1.2 Outcome 2: Stakeholder Map
 
 A map showing the people and systems that influence your community.
 
@@ -44,7 +44,7 @@ Must include:
 - Flow map
 - PDF, doc, or image
 
-### ✅ **Outcome 3: Draft Challenge / Problem Statement**
+### 1.3 Outcome 3: Draft Challenge / Problem Statement
 
 A clear, concise statement rooted in what you actually observed.
 
@@ -59,7 +59,7 @@ Must answer:
 
 - 3–5 sentences, written clearly and directly
 
-### ✅ **Outcome 4: Team Reflection Summary**
+### 1.4 Outcome 4: Team Reflection Summary
 
 A short reflection capturing how your understanding evolved.
 
@@ -73,11 +73,11 @@ Must address:
 
 - Maximum 1 page
 
-## **3. Step-by-Step Instructions ( How to do this practically)**
+## 2. 🪜 Step-by-Step Instructions ( How to do this practically)
 
-Follow these steps in order. Do not skip ahead or jump into solution mode.
+> Follow these steps in order. Do not skip ahead or jump into solution mode.
 
-### **Step 1: Set Your Intention as a Team**
+### 2.1 Step 1: Set Your Intention as a Team
 
 As a group, discuss:
 
@@ -93,7 +93,7 @@ Agree on:
 
 This sets the foundation for all your work.
 
-### **Step 2: Explore Your Community**
+### 2.2 Step 2: Explore Your Community
 
 Go outside. Walk your place. Look closely at what is happening around you.
 
@@ -130,7 +130,7 @@ Speak to **at least 3–5 people**, such as:
 
 This raw material is essential for your outputs.
 
-### **Step 3: Make Sense of What You Found**
+### 2.3 Step 3: Make Sense of What You Found
 
 Come together as a team and put all your observations in one place.
 
@@ -152,7 +152,7 @@ You may use:
 
 This synthesis becomes the backbone of your maps and challenge statement.
 
-### **Step 4: Create Your Required Outputs**
+### 2.4 Step 4: Create Your Required Outputs
 
 Using everything you discovered, produce the four required outcomes.
 
@@ -171,15 +171,15 @@ Using everything you discovered, produce the four required outcomes.
 
 Each outcome must be uploaded clearly and named properly.
 
-## **4. Submission Requirements (What to Upload)**
-
-Upload all four outcomes to your team’s folder in the Publishing Stack.
+## **3. Submission Requirements (What to Upload)** 📁
 
 <aside> 💡
 
 Please use the following link to submit your work: [https://tally.so/r/aQ9Ba2](https://tally.so/r/aQ9Ba2)
 
 ⚠️ **Submission deadline is on December 9th, 11:59 PM (EAT)**
+
+We will upload all four outcomes to your team’s folder in the Publishing Stack.
 
 </aside>
 
@@ -202,7 +202,7 @@ Please use the following link to submit your work: [https://tally.so/r/aQ9Ba2](h
 
 These strengthen the narrative of your final project.
 
-### **5. Quality Checklist (Before Submitting)**
+### **Quality Checklist (Before Submitting)**
 
 Your outputs should be:
 
