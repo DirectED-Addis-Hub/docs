@@ -171,7 +171,7 @@ Using everything you discovered, produce the four required outcomes.
 
 Each outcome must be uploaded clearly and named properly.
 
-## **3. Submission Requirements (What to Upload)** 📁
+## 3. Submission Requirements (What to Upload) 📁
 
 <aside> 💡
 
@@ -202,7 +202,7 @@ We will upload all four outcomes to your team’s folder in the Publishing Stack
 
 These strengthen the narrative of your final project.
 
-### **Quality Checklist (Before Submitting)**
+### Quality Checklist (Before Submitting)
 
 Your outputs should be:
 
