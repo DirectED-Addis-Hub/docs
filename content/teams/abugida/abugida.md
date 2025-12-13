@@ -4,7 +4,7 @@
 LoyalCoin: Unified Multi-Merchant Loyalty Currency on Cardano
 
 ## Overview
-CATS G-3 is working on LoyalCoin, a unified loyalty currency that multiple merchants can use. Today, customers carry many isolated loyalty cards or apps, and SMEs run siloed programs that are hard to maintain and do not interoperate.
+Abugida is working on LoyalCoin, a unified loyalty currency that multiple merchants can use. Today, customers carry many isolated loyalty cards or apps, and SMEs run siloed programs that are hard to maintain and do not interoperate.
 
 ## Who Experiences This Problem
 - Customers juggling multiple loyalty schemes  

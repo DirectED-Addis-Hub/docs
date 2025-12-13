@@ -3,7 +3,7 @@ title: Team Reflection Summary
 sidebarTitle: Reflection Summary
 ---
 
-# 🧠 Team Reflection Summary — CATS10
+# 🧠 Team Reflection Summary — Africhain Aid
 
 When we started this work, we believed the core problem in aid distribution was **theft or mismanagement**. Our early assumptions focused on “how to track resources better” and “how to stop loss.”
 

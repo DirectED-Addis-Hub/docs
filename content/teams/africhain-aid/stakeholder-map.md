@@ -3,7 +3,7 @@ title: Stakeholder Map
 sidebarTitle: Stakeholder Map
 ---
 
-# 🗺️ Stakeholder Map — CATS10
+# 🗺️ Stakeholder Map — Africhain Aid
 
 **Goal:** transparency in aid distribution.
 

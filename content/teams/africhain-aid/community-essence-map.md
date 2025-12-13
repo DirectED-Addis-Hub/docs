@@ -3,7 +3,7 @@ title: Community Essence Map
 sidebarTitle: Community Essence Map
 ---
 
-# 🧭 Community Essence Map — CATS10
+# 🧭 Community Essence Map — Africhain Aid
 
 **Focus area:** Internally Displaced Persons / Refugee Camps — aid distribution.
 
