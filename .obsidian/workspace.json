@@ -25,14 +25,14 @@
             "id": "20522bd320254c40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "content/submission guideline/Stage 2-MVP and Demo Documentation Submission.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Stage 2-MVP and Demo Documentation Submission"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -197,10 +197,11 @@
   },
   "active": "20522bd320254c40",
   "lastOpenFiles": [
+    "content/hub-team.md",
+    "content/events/kahoots.md",
+    "content/submission guideline/Stage 2-MVP and Demo Documentation Submission.md",
     "OBSIDIAN_SETUP.md",
     "content/submission guideline/Stage 1 - Regenerative Exploration, Participant Guide.md",
-    "content/submission guideline/Stage 2-MVP and Demo Documentation Submission.md",
-    "content/events/kahoots.md",
     "content/events/index.md",
     "content/events/🎮 Kahoots.md",
     "content/submission guideline/index.mdx",
@@ -220,7 +221,6 @@
     "content/teams/abugida/reflection.md",
     "content/teams/abugida/index.mdx",
     "content/teams/abugida/community-essence-map.md",
-    "content/hub-team.md",
     "public/app-enacting.svg",
     "public/teams/rani.jpg",
     "public/teams/nahom.jpg",
