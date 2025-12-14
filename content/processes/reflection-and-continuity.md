@@ -14,7 +14,7 @@ Teams:
 * Document decisions, learnings, and limitations
 * Prepare materials for external review and future iteration
 
-### DirectED Practice
+### Implementation Approach
 
 * Final reviews focused on substance over presentation
 * Structured documentation for the public-facing docs app

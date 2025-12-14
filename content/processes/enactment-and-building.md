@@ -16,7 +16,7 @@ Teams:
 
 Progress is validated through *what exists*, not what is promised.
 
-### DirectED Practice
+### Implementation Approach
 
 * Live or recorded demos during review sessions
 * Technical walkthroughs and targeted support

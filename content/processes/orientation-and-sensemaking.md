@@ -16,7 +16,7 @@ Teams are introduced to:
 
 The emphasis is on **clarity before speed**.
 
-### DirectED Practice
+### Implementation Approach
 
 * Structured onboarding sessions
 * Guided walkthroughs of methodology and expectations

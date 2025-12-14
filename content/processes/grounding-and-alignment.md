@@ -16,7 +16,7 @@ Teams:
 
 The goal is **directional coherence**, not polish.
 
-### DirectED Practice
+### Implementation Approach
 
 * Weekly team check-ins to validate direction and surface blockers
 * Facilitated workshops (Tuesdays and Thursdays) to deepen alignment
