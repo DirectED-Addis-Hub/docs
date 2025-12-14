@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/submission-guidelines/index.md",
+                "file": "content/events/in-person-hackathon-day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "in-person-hackathon-day"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/submission-guidelines/index.md",
+                "file": "content/events/in-person-hackathon-day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for in-person-hackathon-day"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/submission-guidelines/index.md",
+                "file": "content/events/in-person-hackathon-day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from in-person-hackathon-day"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/submission-guidelines/index.md",
+                "file": "content/events/in-person-hackathon-day.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of in-person-hackathon-day"
             }
           },
           {
@@ -182,6 +182,10 @@
   },
   "active": "ef3d562254549442",
   "lastOpenFiles": [
+    "content/events/kahoots.md",
+    "content/submission-guidelines/index.md",
+    "content/events/in-person-hackathon-day.md",
+    "content/events/index.md",
     "content/processes/enactment-and-building.md",
     "content/submission guideline/Stage 3- MVP and Demo Documentation Submission.md",
     "content/teams/genius-by-mistake/stakeholder-map.md",
@@ -196,18 +200,14 @@
     "content/submission-guidelines/stage-3.md",
     "content/submission-guidelines/stage-2.md",
     "content/submission-guidelines/stage-1.md",
-    "content/submission-guidelines/index.md",
     "content/submission-guidelines",
     "content/processes/index.mdx",
-    "content/events/in-person-hackathon-day.md",
     "content/__meta.json",
     "content/submission guideline/Stage 2-MVP and Demo Documentation Submission.md",
     "content/submission guideline/Stage 1 - Regenerative Exploration, Participant Guide.md",
     "content/submission guideline/Untitled.md",
     "content/hub-team.md",
-    "content/events/kahoots.md",
     "OBSIDIAN_SETUP.md",
-    "content/events/index.md",
     "content/events/🎮 Kahoots.md",
     "content/submission guideline/index.mdx",
     "content/submission guideline",

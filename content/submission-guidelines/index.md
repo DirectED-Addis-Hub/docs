@@ -5,7 +5,7 @@ asIndexPage: true
 
 # 🧭 Submission Journey Overview
 
-The CATS programme is structured into **three clear submission stages**. Each stage builds on the previous one and represents a different phase of your team’s journey — from understanding your place, to building and documenting progress, to formally enrolling your team in the global programme.
+The CATS programme is structured into **three clear submission stages**. Each stage builds on the previous one and represents a different phase of your team’s journey from understanding your place, to building and documenting progress, to formally enrolling your team in the global programme.
 
 This page helps you understand **what each stage is for**, **when to engage with it**, and **where to go next**.
 
