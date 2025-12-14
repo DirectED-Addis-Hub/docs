@@ -19,7 +19,7 @@ As we mapped the ecosystem, a clear gap emerged between production and consumpti
 
 ## Naming the Real Challenge
 
-At first, we framed the challenge as improving traceability, but that framing was incomplete. The deeper issue is that farmers practicing regenerative agriculture cannot carry their identity through the supply chain, and without identity their value cannot be recognized. This is not only an economic issue, as it affects trust, pride, and long term sustainability, since when regenerative work is invisible there is little incentive to continue it. This understanding shaped our [Problem Statement](./problem-statement) and shifted the focus from tracking goods toward validating people and practices.
+At first, we framed the challenge as improving traceability, but that framing was incomplete. The deeper issue is that farmers practicing regenerative agriculture cannot carry their identity through the supply chain, and without identity their value cannot be recognized. This is not only an economic issue, as it affects trust, pride, and long term sustainability, since when regenerative work is invisible there is little incentive to continue it. This understanding shaped our problem statement and shifted the focus from tracking goods toward validating people and practices.
 
 ## How We Changed
 

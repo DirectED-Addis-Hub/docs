@@ -19,7 +19,7 @@ As we mapped the ecosystem around aid delivery, deeper fractures became visible,
 
 ## Naming the Real Challenge
 
-At the beginning, we believed the core problem was theft or mismanagement, but that assumption did not hold. What we came to understand is that the absence of transparent and verifiable records creates a vacuum that becomes filled with mistrust, misinformation, and harm. Aid does not fail only when food is missing, it fails when truth is missing, and without reliable ways to verify who is registered, what was distributed, and when it happened, even well intentioned systems begin to break down. This understanding shaped how we framed our [Problem Statement](./problem-statement) and shifted the focus away from blame toward accountability that protects everyone involved.
+At the beginning, we believed the core problem was theft or mismanagement, but that assumption did not hold. What we came to understand is that the absence of transparent and verifiable records creates a vacuum that becomes filled with mistrust, misinformation, and harm. Aid does not fail only when food is missing, it fails when truth is missing, and without reliable ways to verify who is registered, what was distributed, and when it happened, even well intentioned systems begin to break down. This understanding shaped how we framed our problem statement and shifted the focus away from blame toward accountability that protects everyone involved.
 
 ## How We Changed
 

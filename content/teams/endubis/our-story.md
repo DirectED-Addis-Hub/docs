@@ -19,7 +19,7 @@ As we mapped the ecosystem, the break became clear, with decentralized platforms
 
 ## Naming the Real Challenge
 
-Initially, we framed the challenge as enforcing smart contracts, but that framing did not go far enough. The deeper challenge is that digital agreements operate without a justice mechanism that is affordable, legitimate, and trusted by the communities using them, and without such a mechanism decentralization reproduces the same failures it claims to escape, shifting power without improving accountability. This understanding shaped our [Problem Statement](./problem-statement) and moved the focus away from execution of code toward the legitimacy of outcomes.
+Initially, we framed the challenge as enforcing smart contracts, but that framing did not go far enough. The deeper challenge is that digital agreements operate without a justice mechanism that is affordable, legitimate, and trusted by the communities using them, and without such a mechanism decentralization reproduces the same failures it claims to escape, shifting power without improving accountability. This understanding shaped our problem statement and moved the focus away from execution of code toward the legitimacy of outcomes.
 
 ## How We Changed
 
