@@ -19,7 +19,7 @@ As we mapped the ecosystem, we saw how isolated each merchant is, with every sho
 
 ## Naming the Real Challenge
 
-At first, we believed the challenge was helping merchants attract more customers, but that framing was incomplete. The deeper issue is that youth-run micro-enterprises already have trust and loyalty, yet lack a way to capture, share, or translate it into stability and growth. Without shared visibility and credible data, merchants remain invisible to financiers, partners, and even potential customers, making growth feel risky and turning survival into the primary focus. This understanding shaped our [Problem Statement](./problem-statement) and shifted our attention away from marketing tactics toward economic resilience.
+At first, we believed the challenge was helping merchants attract more customers, but that framing was incomplete. The deeper issue is that youth-run micro-enterprises already have trust and loyalty, yet lack a way to capture, share, or translate it into stability and growth. Without shared visibility and credible data, merchants remain invisible to financiers, partners, and even potential customers, making growth feel risky and turning survival into the primary focus. This understanding shaped our problem statement and shifted our attention away from marketing tactics toward economic resilience.
 
 ## How We Changed
 
