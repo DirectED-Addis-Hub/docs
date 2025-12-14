@@ -4,8 +4,11 @@ sidebarTitle: Our Story
 # Addis Ababa Hub Story
 
 **CATS26 Action-Learning Journey**
+
 **Addis Ababa, Ethiopia**
+
 **November 4 – December 15**
+
 **In-Person Hackathon: December 6**
 
 ---
