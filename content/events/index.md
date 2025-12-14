@@ -9,14 +9,13 @@ This section organizes all Addis Ababa Hub events into three categories. Use the
 
 ## Event Categories
 
-- 📘 **Workshops**  
-  Learning sessions, technical deep-dives, and guided methodology support.  
-  [Go to Workshops →](/events/workshops)
+- 🏛️ **In-Person Hackathon Day**  
+  The main on-ground milestone day for collaboration, support, and demos.  
+  [Go to In-Person Hackathon Day →](/events/in-person-hackathon-day)
+
 
 - 🎮 **Kahoots**  
   Weekly quizzes used for engagement, learning reinforcement, and light competition.  
   [Go to Kahoots →](/events/kahoots)
 
-- 🏛️ **In-Person Hackathon Day**  
-  The main on-ground milestone day for collaboration, support, and demos.  
-  [Go to In-Person Hackathon Day →](/events/in-person-hackathon-day)
+
