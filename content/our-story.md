@@ -50,16 +50,16 @@ This sequencing ensured that later project work was grounded in lived reality ra
 
 👉 **Addis Ababa – Team Artefacts**
 
-| Team              | Project           | Our Story                                  | Community Essence Map                                  | Stakeholder Map                                  | Reflection                                  |
-| ----------------- | ----------------- | ------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------- |
-| Abugida           | Abugida           | [View](/teams/abugida/our-story)           | [View](/teams/abugida/community-essence-map)           | [View](/teams/abugida/stakeholder-map)           | [View](/teams/abugida/reflection)           |
-| Africhain Aid     | Africhain Aid     | [View](/teams/africhain-aid/our-story)     | [View](/teams/africhain-aid/community-essence-map)     | [View](/teams/africhain-aid/stakeholder-map)     | [View](/teams/africhain-aid/reflection)     |
-| Endubis           | Endubis           | [View](/teams/endubis/our-story)           | [View](/teams/endubis/community-essence-map)           | [View](/teams/endubis/stakeholder-map)           | [View](/teams/endubis/reflection)           |
-| Ethio Origin      | Ethio Origin      | [View](/teams/ethio-origin/our-story)      | [View](/teams/ethio-origin/community-essence-map)      | [View](/teams/ethio-origin/stakeholder-map)      | [View](/teams/ethio-origin/reflection)      |
-| Genius by Mistake | Genius by Mistake | [View](/teams/genius-by-mistake/our-story) | [View](/teams/genius-by-mistake/community-essence-map) | [View](/teams/genius-by-mistake/stakeholder-map) | [View](/teams/genius-by-mistake/reflection) |
-| Pixel             | Pixel             | [View](/teams/pixel/our-story)             | [View](/teams/pixel/community-essence-map)             | [View](/teams/pixel/stakeholder-map)             | [View](/teams/pixel/reflection)             |
-| Solution Genesis  | Solution Genesis  | [View](/teams/solution-genesis/our-story)  | [View](/teams/solution-genesis/community-essence-map)  | [View](/teams/solution-genesis/stakeholder-map)  | [View](/teams/solution-genesis/reflection)  |
-| Team Axiom        | Team Axiom        | [View](/teams/team-axiom/our-story)        | [View](/teams/team-axiom/community-essence-map)        | [View](/teams/team-axiom/stakeholder-map)        | [View](/teams/team-axiom/reflection)        |
+| Team              | Project        | Community Essence Map | Stakeholder Map | Reflection |
+|-------------------|----------------|------------------------|-----------------|------------|
+| Abugida           | LoyalCoin      | [View](/teams/abugida/community-essence-map) | [View](/teams/abugida/stakeholder-map) | [View](/teams/abugida/reflection) |
+| Africhain Aid     | Africhain Aid  | [View](/teams/africhain-aid/community-essence-map) | [View](/teams/africhain-aid/stakeholder-map) | [View](/teams/africhain-aid/reflection) |
+| Endubis           | Gedda          | [View](/teams/endubis/community-essence-map) | [View](/teams/endubis/stakeholder-map) | [View](/teams/endubis/reflection) |
+| Ethio Origin      | Ethio Origin   | [View](/teams/ethio-origin/community-essence-map) | [View](/teams/ethio-origin/stakeholder-map) | [View](/teams/ethio-origin/reflection) |
+| Genius by Mistake | AfriTrace      | [View](/teams/genius-by-mistake/community-essence-map) | [View](/teams/genius-by-mistake/stakeholder-map) | [View](/teams/genius-by-mistake/reflection) |
+| Pixel             | Saba           | [View](/teams/pixel/community-essence-map) | [View](/teams/pixel/stakeholder-map) | [View](/teams/pixel/reflection) |
+| Solution Genesis  | BlockPay       | [View](/teams/solution-genesis/community-essence-map) | [View](/teams/solution-genesis/stakeholder-map) | [View](/teams/solution-genesis/reflection) |
+| Team Axiom        | The Spine      | [View](/teams/team-axiom/community-essence-map) | [View](/teams/team-axiom/stakeholder-map) | [View](/teams/team-axiom/reflection) |
 
 ---
 
@@ -232,12 +232,12 @@ This hub-level narrative provides the overarching account. Each team’s story o
 
 | Team              | Project           | Team Story Link                                       |
 | ----------------- | ----------------- | ----------------------------------------------------- |
-| Abugida           | Abugida           | [View Team Story](/teams/abugida/our-story)           |
+| Abugida           | LoyalCoin         | [View Team Story](/teams/abugida/our-story)           |
 | Africhain Aid     | Africhain Aid     | [View Team Story](/teams/africhain-aid/our-story)     |
-| Endubis           | Endubis           | [View Team Story](/teams/endubis/our-story)           |
+| Endubis           | Gedda             | [View Team Story](/teams/endubis/our-story)           |
 | Ethio Origin      | Ethio Origin      | [View Team Story](/teams/ethio-origin/our-story)      |
-| Genius by Mistake | Genius by Mistake | [View Team Story](/teams/genius-by-mistake/our-story) |
-| Pixel             | Pixel             | [View Team Story](/teams/pixel/our-story)             |
-| Solution Genesis  | Solution Genesis  | [View Team Story](/teams/solution-genesis/our-story)  |
-| Team Axiom        | Team Axiom        | [View Team Story](/teams/team-axiom/our-story)        |
+| Genius by Mistake | AfgriTrace        | [View Team Story](/teams/genius-by-mistake/our-story) |
+| Pixel             | Saba              | [View Team Story](/teams/pixel/our-story)             |
+| Solution Genesis  | BlockPay          | [View Team Story](/teams/solution-genesis/our-story)  |
+| Team Axiom        | The Spine         | [View Team Story](/teams/team-axiom/our-story)        |
 
