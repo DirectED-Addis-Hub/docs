@@ -107,10 +107,10 @@ The Hub Lead ensured that each team met baseline requirements:
 
 This marked a shift from exploration to ownership. Teams were expected to move rapidly from discussion into visible planning and early implementation. By the end of this phase, all active participants were embedded within teams, and each team had articulated a concrete project direction grounded in Stage 1 insights.
 
-> **Evidence:**
+<!-- > **Evidence:**
 
 * [Team List & Role Assignments]
-* [Team formation call Recording]
+* [Team formation call Recording] -->
 
 ---
 
@@ -150,7 +150,7 @@ This milestone surfaced both strengths and remaining gaps, directly informing th
 > **Evidence:**
 > → [In-Person Hackathon Guide and Schedule](/events/in-person-hackathon-day.md)
 
-→ [Event Photos & Media Folder](/)
+<!-- → [Event Photos & Media Folder](/) -->
 
 ---
 
@@ -174,9 +174,9 @@ Technical reviews examined code structure, architectural decisions, and implemen
 > **Evidence:**
 > → [Team Review SOP](https://directed.notion.site/HOW-TO-RUN-TEAM-REVIEWS-SOP-2c452c03837980a3975dd68cd900d5a7)
 
-→ [Team Review Tracker Spreadsheet](/)
+<!-- → [Team Review Tracker Spreadsheet](/)
 
-→ [Recorded MVP & Code Review Sessions](/)
+→ [Recorded MVP & Code Review Sessions](/) -->
 
 ### Submission Management
 
