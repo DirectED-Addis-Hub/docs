@@ -84,4 +84,8 @@ What this work points toward is a future where farmers remain visible from field
 
 A future where regenerative practices are provable.  
 Where farmers can access fairer markets.  
-Where value flows b
+Where value flows back to the people who create it.
+
+Any future solution here must respect local context while meeting global trust requirements.
+
+In agriculture, origin is not a label. It is the story of people, land, and care. 

@@ -5,7 +5,7 @@ sidebarTitle: Our Story
 
 # Our Story
 
-## Where We Entered
+## How We Started
 
 We entered this work through small shops and youth-run micro-enterprises in Addis Ababa. These are businesses built with effort, resilience, and strong community ties, yet constantly operating on the edge of survival.
 
