@@ -89,6 +89,6 @@ After the in-person hackathon, teams continue working on their projects. You’l
 
 ## 📸 Photos & Media
 
-Photos and short videos from the in-person hackathon will be shared here after the event.
+You can find photos and short videos from the in-person hackathon in the drive folder below.
 
 👉 [Event Pictures and Videos](https://drive.google.com/drive/folders/134pTt_oxOmES_Z4MHqu-9PVfK0OKQgEQ?usp=sharing)
