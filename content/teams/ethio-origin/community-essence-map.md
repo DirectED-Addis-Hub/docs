@@ -26,14 +26,19 @@ Another shared that his coffee may later be sold internationally as “premium s
 - Washing stations act as information choke points.
 - Certification systems exist but are too expensive or inaccessible for most farmers.
 
-## Patterns, tensions, and themes
+## Patterns, Tensions, and Themes
 
-- **Pattern:** High-quality production, low recognition
-- **Pattern:** Information loss at point of aggregation
-- **Tension:** Global demand for traceability vs. local data absence
-- **Tension:** Regenerative practice vs. extractive market systems
-- **Theme:** Farmer invisibility
-- **Theme:** Trust gaps across the value chain
+**Patterns**
+- High-quality production that receives limited recognition or attribution  
+- Loss of information and identity at points of aggregation  
+
+**Tensions**
+- Global demand for traceability versus the absence of reliable local data  
+- Regenerative farming practices versus extractive market structures  
+
+**Themes**
+- Invisibility of farmers within the broader value chain  
+- Persistent trust gaps across producers, aggregators, and markets  
 
 ## A typical journey of coffee
 

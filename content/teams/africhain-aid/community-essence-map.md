@@ -20,13 +20,20 @@ sidebarTitle: Community Essence Map
 - Poor tracking creates exclusion (some counted twice; others missed).
 - Rumors/misinformation can trigger distrust and conflict fast.
 
-## Patterns, tensions, themes
-- **Pattern:** Food & aid insecurity (insufficient / inconsistent rations)
-- **Pattern:** Fragile identity & documentation (IDs lost/absent)
-- **Tension:** Need vs institutional capacity (demand > resources)
-- **Tension:** Inclusion vs exclusion (gaps + mismanagement)
-- **Theme:** Systemic vulnerability (weak registration + tracking)
-- **Theme:** Urgent need for transparent systems (accountability + dignity)
+## Patterns, Tensions, and Themes
+
+**Patterns**
+- Food and aid insecurity driven by insufficient and inconsistent rations  
+- Fragile identity and documentation systems, with IDs frequently lost or absent  
+
+**Tensions**
+- Growing needs versus limited institutional capacity, where demand exceeds available resources  
+- Inclusion versus exclusion, shaped by gaps in coverage and instances of mismanagement  
+
+**Themes**
+- Systemic vulnerability resulting from weak registration and tracking mechanisms  
+- Urgent need for transparent systems that strengthen accountability while preserving dignity  
+
 
 ## Typical aid experience timeline
 Arrival → fragile registration → monthly dependency → breakdowns/exclusion → health/social risk → loss of trust.

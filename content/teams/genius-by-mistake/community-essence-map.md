@@ -24,14 +24,19 @@ Across locations, the same frustration came up: trust breaks down not because pe
 - Price manipulation is common due to information asymmetry.
 - Rejected exports cause financial loss for everyone involved.
 
-## Patterns, tensions, and themes
+## Patterns, Tensions, and Themes
 
-- **Pattern:** High-quality production, low trust downstream
-- **Pattern:** Identity loss at aggregation points
-- **Tension:** Farmer credibility vs. market skepticism
-- **Tension:** Manual systems vs. global trade standards
-- **Theme:** Traceability as a trust requirement
-- **Theme:** Economic harm caused by missing data
+**Patterns**
+- High-quality production paired with low trust downstream  
+- Loss of producer identity at aggregation points  
+
+**Tensions**
+- Farmer credibility versus persistent market skepticism  
+- Manual, paper-based systems versus global trade standards  
+
+**Themes**
+- Traceability as a prerequisite for trust  
+- Economic harm resulting from missing or unreliable data  
 
 ## A typical produce journey
 

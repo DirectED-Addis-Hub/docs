@@ -24,14 +24,19 @@ One freelancer told us that even when work is completed successfully, the hardes
 - Freelancers depend on informal networks and workarounds.
 - Payment uncertainty affects mental health and financial stability.
 
-## Patterns, tensions, and themes
+## Patterns, Tensions, and Themes
 
-- **Pattern:** High skill availability, limited financial access
-- **Pattern:** Repeated workaround cycles
-- **Tension:** Global opportunity vs. local infrastructure
-- **Tension:** Compliance vs. usability
-- **Theme:** Financial exclusion of digital labor
-- **Theme:** Hidden cost of uncertainty and stress
+**Patterns**
+- High availability of digital skills alongside limited access to formal financial services  
+- Repeated reliance on workarounds to navigate payment, compliance, and access constraints  
+
+**Tensions**
+- Global market opportunities versus weak or fragmented local infrastructure  
+- Regulatory compliance requirements versus practical usability for workers  
+
+**Themes**
+- Financial exclusion of digital labor  
+- Hidden costs of uncertainty, instability, and sustained stress  
 
 ## A typical freelancer journey
 

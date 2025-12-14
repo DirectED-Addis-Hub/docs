@@ -24,14 +24,20 @@ Healthcare staff shared frustration at having to rely on handwritten forms and s
 - Verification depends on phone calls or personal relationships.
 - Delays directly affect patient outcomes and dignity.
 
-## Patterns, tensions, and themes
+## Patterns, Tensions, and Themes
 
-- **Pattern:** Paper-based referrals as single points of failure
-- **Pattern:** Fragmented health records across facilities
-- **Tension:** Urgency of care vs. administrative verification
-- **Tension:** Patient trust vs. institutional mistrust
-- **Theme:** Systemic inefficiency harming vulnerable patients
-- **Theme:** Lack of shared truth across the health system
+**Patterns**
+- High availability of digital skills alongside limited access to formal financial services  
+- Repeated reliance on workarounds to navigate payment, compliance, and access constraints  
+
+**Tensions**
+- Global market opportunities versus weak or fragmented local infrastructure  
+- Regulatory compliance requirements versus practical usability for workers  
+
+**Themes**
+- Financial exclusion of digital labor  
+- Hidden costs of uncertainty, instability, and sustained stress  
+
 
 ## Typical patient journey
 

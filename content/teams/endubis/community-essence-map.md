@@ -24,14 +24,19 @@ Several participants shared that this lack of recourse forces them to rely on in
 - Centralized platforms become default arbiters.
 - Many people avoid innovation due to fear of unresolved disputes.
 
-## Patterns, tensions, and themes
+## Patterns, Tensions, and Themes
 
-- **Pattern:** Growth of digital trade without matching justice mechanisms
-- **Pattern:** Reliance on centralized intermediaries for enforcement
-- **Tension:** Decentralization ideals vs. centralized dispute resolution
-- **Tension:** Speed of digital commerce vs. slowness of courts
-- **Theme:** Trust deficit in the digital economy
-- **Theme:** Lack of culturally legitimate justice frameworks
+**Patterns**
+- Rapid growth of digital trade without corresponding justice or enforcement mechanisms  
+- Continued reliance on centralized intermediaries to resolve disputes and enforce outcomes  
+
+**Tensions**
+- Ideals of decentralization versus the reality of centralized dispute resolution  
+- Speed and scale of digital commerce versus the slow pace of formal court systems  
+
+**Themes**
+- A persistent trust deficit within the digital economy  
+- Absence of culturally legitimate and widely accepted justice frameworks  
 
 ## A typical dispute journey
 

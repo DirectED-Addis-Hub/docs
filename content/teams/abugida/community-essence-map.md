@@ -24,14 +24,20 @@ Many merchants expressed interest in loyalty programs but said existing systems 
 - Access to affordable capital is extremely limited.
 - Growth feels risky; survival is the priority.
 
-## Patterns, tensions, and themes
+## Patterns, Tensions, and Themes
 
-- **Pattern:** Strong community ties, weak growth pathways
-- **Pattern:** Loyalty exists but is not captured or shared
-- **Tension:** Informality vs. scalability
-- **Tension:** Survival mode vs. long-term planning
-- **Theme:** Financial fragility of youth-run enterprises
-- **Theme:** Missed network effects between small merchants
+**Patterns**
+- Strong community ties alongside limited pathways for growth  
+- Existing customer loyalty that is not captured, shared, or leveraged  
+
+**Tensions**
+- Informal, trust-based practices versus the demands of scalability  
+- Short-term survival pressures versus long-term planning and investment  
+
+**Themes**
+- Financial fragility of youth-run enterprises  
+- Missed network effects among small and neighboring merchants  
+
 
 ## A typical business cycle
 

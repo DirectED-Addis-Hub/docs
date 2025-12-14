@@ -34,14 +34,19 @@ sidebarTitle: Community Essence Map
 - Buyers want authenticity but lack verification mechanisms.
 - Digital tools are desired but feel risky and inaccessible.
 
-## Patterns, tensions, and themes
+## Patterns, Tensions, and Themes
 
-- **Pattern:** High skill, low visibility
-- **Pattern:** Income instability driven by location and season
-- **Tension:** Craft authenticity vs. buyer trust
-- **Tension:** Creativity vs. structural barriers
-- **Theme:** Gendered economic exclusion
-- **Theme:** Absence of trusted digital identity
+**Patterns**
+- High levels of skill and craftsmanship paired with low visibility in markets  
+- Income instability shaped by location, seasonality, and access to buyers  
+
+**Tensions**
+- Authentic craft practices versus limited buyer trust  
+- Creative capacity constrained by structural and systemic barriers  
+
+**Themes**
+- Gendered forms of economic exclusion  
+- Absence of trusted and portable digital identity  
 
 ## A typical day (condensed)
 
