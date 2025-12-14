@@ -1,5 +1,6 @@
 ---
 sidebarTitle: Events
+asIndexPage: true
 ---
 
 # Events
