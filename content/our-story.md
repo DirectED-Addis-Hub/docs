@@ -110,10 +110,21 @@ The Hub Lead ensured that each team met baseline requirements:
 
 This marked a shift from exploration to ownership. Teams were expected to move rapidly from discussion into visible planning and early implementation. By the end of this phase, all active participants were embedded within teams, and each team had articulated a concrete project direction grounded in Stage 1 insights.
 
-<!-- > **Evidence:**
+> **Evidence:**
 
-* [Team List & Role Assignments]
-* [Team formation call Recording] -->
+| Team Name               | Team Members List                       | Focus Area                                                                                                                     |
+| ----------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Ethio-Origins**       | [members](/teams/ethio-origin)          | Making smallholder farmers visible by preserving identity, origin, and regenerative practices across supply chains            |
+| **Team Axiom**          | [members](/teams/team-axiom)            | Improving trust and continuity in healthcare referrals through verifiable records between local institutions                  |
+| **Pixel**               | [members](/teams/pixel)                 | Empowering female artisans by creating trusted digital spaces that connect creators directly with buyers                      |
+| **Endubis**             | [members](/teams/endubis)               | Designing accessible and culturally grounded dispute resolution for decentralized digital commerce                            |
+| **Africhain Aid**       | [members](/teams/africhain-aid)         | Restoring trust in humanitarian aid delivery through transparent, verifiable distribution records                             |
+| **Abugida**             | [members](/teams/abugida)               | Strengthening youth-run micro-enterprises by making local trust and loyalty visible and shareable                             |
+| **Solution Genesis**    | [members](/teams/solution-genesis)      | Enabling Ethiopian freelancers to receive global income reliably through predictable and compliant payment access             |
+| **Genius by Mistake**   | [members](/teams/genius-by-mistake)     | Protecting farmer identity and fairness by making origin, proof, and shared truth visible across agricultural value chains    |
+
+  
+<!-- * [Team formation call Recording] -->
 
 ---
 

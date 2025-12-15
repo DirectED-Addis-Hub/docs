@@ -25,7 +25,7 @@ By the end of the day, you should be able to clearly explain what you’re build
 
 ## 📍 Venue & Logistics
 
-The in-person hackathon takes place at **Ice Addis on the 6th of December 2025, s**tarting from **8:30 AM :**
+The in-person hackathon takes place at **Ice Addis on the 6th of December 2025, starting from **8:30 AM :**
 
 🗺️ [https://maps.app.goo.gl/gvzkUNksiL97u69j9](https://maps.app.goo.gl/gvzkUNksiL97u69j9)
 
