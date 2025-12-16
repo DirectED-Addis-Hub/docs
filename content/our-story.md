@@ -124,7 +124,7 @@ This marked a shift from exploration to ownership. Teams were expected to move r
 | **Genius by Mistake**   | [members](/teams/genius-by-mistake)     | Protecting farmer identity and fairness by making origin, proof, and shared truth visible across agricultural value chains    |
 
   
-<!-- * [Team formation call Recording] -->
+* [Team formation call Recording](https://drive.google.com/drive/folders/1upXNaK033qbPL66BamNEIVZODMJNZZIH?usp=sharing)
 
 ---
 

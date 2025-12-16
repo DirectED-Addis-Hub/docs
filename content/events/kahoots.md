@@ -45,6 +45,8 @@ Each week stands on its own. Even if you didn’t place in a previous Kahoot, yo
 
 If you are unable to attend a live Kahoot session, recordings will be made available here. These recordings allow you to review the questions, see the correct answers, and reinforce your understanding of the workshop material.
 
+[Kahoot Recordings](https://drive.google.com/drive/folders/113bBt-xj5sZqRfbwJfw80MCEib8Nhj0T?usp=sharing)
+
 While watching recordings is useful for learning, only participants who join the live session are eligible for prizes.
 
 ## ⚠️ Important Notes
