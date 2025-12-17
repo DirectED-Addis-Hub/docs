@@ -1,6 +1,6 @@
 ---
 title: Project Overview
-sidebarTitle: Overview
+sidebarTitle: MVP & Demo
 ---
 
 # Solution Genesis
