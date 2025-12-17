@@ -1,40 +1,42 @@
 ---
-title: Community Essence Map
-sidebarTitle: Community Essence Map
+title: Stakeholder Map
+sidebarTitle: Stakeholder Map
 ---
 
-# 🧭 Community Essence Map — Abugida
+# 🗺️ Stakeholder Map — Abugida
 
-**Location:** Addis Ababa  
-**Focus area:** Youth-run micro-enterprises and small local merchants
+**Goal:** Help small merchants grow sustainably through shared loyalty and trust networks.
 
-## Stories from the community
+## Small Merchants / Micro-enterprises
 
-Young shop owners and micro-entrepreneurs described running businesses that survive month to month. Many rely on repeat customers but struggle to attract new ones. Rising costs, rent increases, and sudden economic shocks make growth risky.
+- **Role:** Provide local goods and services.
+- **Risk:** Income volatility, closure during shocks.
+- **Technology role:** Shared loyalty data and customer visibility.
 
-Several merchants shared that even loyal customers are not enough to stabilize income. Without access to affordable capital or broader exposure, one slow month can lead to closure.
+## Customers
 
-Many merchants expressed interest in loyalty programs but said existing systems feel expensive, fragmented, or designed for large businesses—not small neighborhood shops.
+- **Role:** Support local businesses.
+- **Pain:** Loyalty benefits are fragmented and inconsistent.
+- **Technology role:** Portable loyalty and rewards across merchants.
 
-## Observations (what keeps repeating)
+## Youth Entrepreneurs
 
-- Businesses depend heavily on a small group of regular customers.
-- Customer data is informal or nonexistent.
-- Cash-based loyalty is fragmented and not reusable across merchants.
-- Access to affordable capital is extremely limited.
-- Growth feels risky; survival is the priority.
+- **Role:** Operate and manage businesses.
+- **Risk:** Burnout and financial stress.
+- **Technology role:** Tools that reduce risk and increase exposure.
 
-## Patterns, tensions, and themes
+## Financial Institutions / Investors
 
-- **Pattern:** Strong community ties, weak growth pathways
-- **Pattern:** Loyalty exists but is not captured or shared
-- **Tension:** Informality vs. scalability
-- **Tension:** Survival mode vs. long-term planning
-- **Theme:** Financial fragility of youth-run enterprises
-- **Theme:** Missed network effects between small merchants
+- **Role:** Provide capital.
+- **Barrier:** Lack of reliable data on merchant performance.
+- **Technology role:** Data-backed insights for fair financing.
 
-## A typical business cycle
+## Local Communities
 
-Daily sales → reliance on regulars → slow periods → cash shortage → inability to invest → stagnation or closure
+- **Role:** Economic and social support system.
+- **Technology role:** Network effects through shared customer ecosystems.
 
-Growth is constrained not by effort, but by structural limitations.
+## Platform / DAO Layer
+
+- **Role:** Governance and coordination.
+- **Technology role:** Fair participation and non-extractive growth.
